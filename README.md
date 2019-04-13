@@ -14,3 +14,6 @@ Various implementation of LRU (Least Recently Used) page replacement algorithm d
 | Ashish Singh      |   17114014        |
 | Aazim             |   161140          |
 
+## License
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) for details.
